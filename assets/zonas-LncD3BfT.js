@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-CZao_MMo.js";import{t}from"./SitePage-BKF8XtIM.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`zonas`});export{r as component};

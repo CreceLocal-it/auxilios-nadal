@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-CZao_MMo.js";import{t}from"./index-Dt4-nktO.js";import{t as n}from"./SitePage-BKF8XtIM.js";var r=e();function i(){let{slug:e}=t.useParams();return(0,r.jsx)(n,{page:`zona:`+e})}export{i as component};
