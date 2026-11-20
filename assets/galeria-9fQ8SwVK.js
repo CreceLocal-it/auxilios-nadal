@@ -1,0 +1,1 @@
+import{m as e}from"./bloques-0FPDf6fl.js";import{t}from"./SitePage-Bqk78qZL.js";var n=e(),r=()=>(0,n.jsx)(t,{page:`galeria`});export{r as component};
